@@ -1,0 +1,2 @@
+// JavaScript
+// for SharePoint wiki
